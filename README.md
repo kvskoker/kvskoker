@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvskoker (Kenneth VS Koker)
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Javascript, NodeJS, Php, Python, Wappler
+- 🌱 I use Javascript, NodeJS, PHP, Python, and Wappler for web development
 - 💞️ I’m looking to collaborate on Web Development and Data Science related projects
 
 <!---
